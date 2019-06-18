@@ -2,3 +2,10 @@
 dataset/*
 augdataset/*
 *.h5
+dataset/*
+via/*
+via_0/*
+via_1/*
+via_all/*
+via_train/*
+via_val/*
